@@ -5,4 +5,5 @@ function isEven(num){
 }
 var input = prompt();
 var result = isEven(input);
+
 document.write(result);
